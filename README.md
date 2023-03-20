@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/DiZco12/Dad-Lives-TTW-Resurrected/releases">
+    <img height="200px" src="https://i.imgur.com/Fw5924X.png">
+  </a>
+</p>
+
 # Brief Overview
 A revisit to my labor of love, Dad Lives TTW. This new revamp adds a companion quest using AI voice acting, more things for Dad to talk about/comment on, removes dirty edits, fixes bugs, and generally just improves upon the original mod.
 
