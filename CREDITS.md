@@ -1,3 +1,4 @@
 - The TTW Team for creating TTW
 - VERsingTheGamez for the idea of the mod
-- Various xNVSE and TTW Discord members for thier help and ideas
+- Various xNVSE and TTW Discord members for their help and ideas
+- Demorome for making the OnDispostionChange function just for me!
