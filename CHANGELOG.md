@@ -9,7 +9,7 @@
 - Dad actually follows you at long distance when told
 - There is now an option in the config that toggles Dad being essential all the time
 
-#0.2
+# 0.2
 - Cleaned up unused records
 - Fixed lines not having .lip files
 - Rewrote and Regenerated a bunch of lines, using ElevenAI instead of xVASynth this time around
