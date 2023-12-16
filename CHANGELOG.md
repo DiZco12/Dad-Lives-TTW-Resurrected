@@ -1,5 +1,4 @@
 # 0.1
-- First WIP Release
 - Dad now has a companion quest (Not included in this release, sorry)
 - Over 30 new lines of dialogue to have more things to talk to Dad about and decrease repetitive conversations
 - Dad now doesn't count toward the follower limit, reducing the chance of bugs occurring related to it
@@ -15,4 +14,5 @@
 - Fixed lines not having .lip files
 - Rewrote and Regenerated a bunch of lines, using ElevenAI instead of xVASynth this time around
 - Lowered the requirements for the Endurance skill training
-- Added additional lines to decrease repetitive conversations even further.
+- Added additional lines to decrease repetitive conversations even further
+- Fixed spelling mistakes
